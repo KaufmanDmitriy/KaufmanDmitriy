@@ -6,4 +6,4 @@
 - Работаю над [проектом](https://github.com/KaufmanDmitriy/pcb-detection) "Система контроля качества сборки печатных плат"
 
 ## Контакты
-[Telegram](https://t.me/KaufmanDmitriy)
+[<img src="images/email.png">] kfmn.dmitriy@gmail.com [Telegram](https://t.me/KaufmanDmitriy)
