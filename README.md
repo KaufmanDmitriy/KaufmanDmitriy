@@ -26,3 +26,5 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, LightGBM, CatBoost
 
 ### [Проекты, выполненные в Яндекс Практикуме](https://github.com/KaufmanDmitriy/YandexPracticum)
 - [Прогнозирование заказов такси](https://github.com/KaufmanDmitriy/YandexPracticum/tree/main/taxi_orders)
+- [Определение возраста по фотографии](https://github.com/KaufmanDmitriy/YandexPracticum/tree/main/age_prediction)
+- [Предсказание температуры стали](https://github.com/KaufmanDmitriy/YandexPracticum/tree/main/steel_temp_prediction)
