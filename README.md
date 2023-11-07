@@ -25,4 +25,4 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, LightGBM, CatBoost
 <img width="200px" src="images/prediction.png">
 
 ### [Проекты, выполненные в Яндекс Практикуме](https://github.com/KaufmanDmitriy/YandexPracticum)
-- [Прогнозирование заказов такси](taxi_orders)
+- [Прогнозирование заказов такси](https://github.com/KaufmanDmitriy/YandexPracticum/tree/main/taxi_orders)
