@@ -12,7 +12,9 @@
 ## Tech stack
 **Языки программирования:**
 Python, SQL, VBA
+
 **СУБД:**
 PostreSQL, MySQL
+
 **Data Science:**
 Python, Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, LightGBM, CatBoost
