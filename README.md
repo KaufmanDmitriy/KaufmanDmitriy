@@ -14,7 +14,7 @@
 Python, SQL, VBA
 
 **СУБД:**
-PostreSQL, MySQL
+PostgreSQL, MySQL
 
 **Data Science:**
 Python, Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, LightGBM, CatBoost
