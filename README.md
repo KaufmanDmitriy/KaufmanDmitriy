@@ -22,4 +22,4 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, PyTorch, LightGBM, CatBoost
 ## Проекты
 
 ### [Система контроля качества сборки пеатных плат](https://github.com/KaufmanDmitriy/pcb-detection)
-<img width="200px" src="images/prediction1.jpg">
+<img width="200px" src="images/prediction.png">
