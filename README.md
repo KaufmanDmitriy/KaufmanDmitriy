@@ -10,5 +10,6 @@
 <img width="30px" src="images/TelegramLogo.png">[Telegram](https://t.me/KaufmanDmitriy)
 
 ## Tech stack
+*Языки программирования:*
+Python, SQL, VBA
 
-- *Языки программирования:* Python, SQL, VBA
